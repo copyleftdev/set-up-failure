@@ -1,7 +1,3 @@
-Sure, here's a compelling argument to present to leadership, explaining the need for more QA resources and illustrating it with your SVG diagrams.
-
----
-
 # The Importance of Adequate QA Resources for Engineering Success
 
 ## Introduction
